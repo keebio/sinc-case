@@ -14,7 +14,7 @@ These are the STL files in the repository. These are an initial version of the d
 
 In the [enclosed-case](enclosed-case/) folder, there are STL files for a new design where the FR4 switch and bottom plates are used but have their sides covered. The top shell has been designed to be threaded into directly from underneath using long M2 screws.
 
-For the Rev. 2, you will need [M2 screws that are 16mm](https://keeb.io/products/m2-screws-and-standoffs?variant=39401487040606) in length. For Rev. 1, due to the thicker mid layer, you will need 20mm screws.
+For the Rev. 2 & 3, you will need [M2 screws that are 16mm](https://keeb.io/products/m2-screws-and-standoffs?variant=39401487040606) in length. For Rev. 1, due to the thicker mid layer, you will need 20mm screws.
 
 License
 -------
