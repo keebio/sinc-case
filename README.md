@@ -13,7 +13,11 @@ In the [plates](plates/) folder, there are DXF files of the switch plates and bo
 
 In the [enclosed-case](enclosed-case/) folder, there are STL files for a design where the FR4 switch and bottom plates are used but have their sides covered. The top shell has been designed to be threaded into directly from underneath using long M2 screws.
 
-For the Rev. 2 & 3, you will need [M2 screws that are 16mm](https://keeb.io/products/m2-screws-and-standoffs?variant=39401487040606) in length. For Rev. 1, due to the thicker mid layer, you will need 20mm screws.
+For the Rev. 2-4, you will need [M2 screws that are 16mm](https://keeb.io/products/m2-screws-and-standoffs?variant=39401487040606) in length. For Rev. 1, due to the thicker mid layer, you will need 20mm screws.
+
+## SKUF Alignment Guide/Tool
+
+For aligning the SKUF feet so that they are straight, you can print off this tool to help you apply the SKUF feet better: [SKUF Alignment Guide](SKUF%20Alignment%20Guide.stl)
 
 ## Older Design
 
