@@ -17,6 +17,8 @@ For the Rev. 2-4, you will need [M2 screws that are 16mm](https://keeb.io/produc
 
 ## SKUF Alignment Guide/Tool
 
+![image](images/skuf-align.jpg)
+
 For aligning the SKUF feet so that they are straight, you can print off this tool to help you apply the SKUF feet better: [SKUF Alignment Guide](SKUF%20Alignment%20Guide.stl)
 
 ## Older Design
